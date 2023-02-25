@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"name": "car_price_predictor-master",
+			"path": "."
+		},
+		{
+			"name": "fonts",
+			"path": "../fonts"
+		}
+	],
+    "settings": {}
+}
